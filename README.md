@@ -9,7 +9,7 @@ Supported formats are XLSX, XSL, XML 2003 and CSV.
 ![example](excel2collections_settings.png)
 - Or take a look at the included [demo application](demo/f107_demo_application.sql)
 
-If you like this plugin: [donations](https://www.paypal.me/apexplugins/3) are most appreciated :yum:.
+If you like this plugin: [donations](https://dedim.net) are most appreciated :yum:.
 
 Mantap
 Mantap
